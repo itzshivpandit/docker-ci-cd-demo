@@ -31,4 +31,4 @@ jobs:
           push: true
           tags: |
             shivsharma01/docker-ci-demo:${{ github.run_number }}
-            shivsharma01/docker-ci-demo:latest
+#            shivsharma01/docker-ci-demo:latest
